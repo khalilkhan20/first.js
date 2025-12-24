@@ -1,4 +1,4 @@
-const name="khalil khan"
+const fullname="khalil khan"
 const rollno="bsc2309"
 const batch="2023"
-console.log([name,rollno,batch])
+console.log([fullname,rollno,batch])
